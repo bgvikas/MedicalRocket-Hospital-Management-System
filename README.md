@@ -13,7 +13,7 @@ MedicalRocket is a comprehensive hospital management system designed to streamli
 
 ## Installation
 
-To get started with MedicalRocket, follow these steps:
+To get started with MedicalRocket, follow these steps:    
 
 1. **Clone the repository**:
     ```sh
