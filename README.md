@@ -9,7 +9,7 @@ MedicalRocket is a comprehensive hospital management system designed to streamli
 - **Billing and Invoicing**: Automate billing processes and generate invoices for patients.
 - **Inventory Management**: Keep track of medical supplies and equipment.
 - **Staff Management**: Manage staff information, schedules, and payroll.
-- **Reporting and Analytics**: Generate detailed reports and analytics to make informed decisions.
+- **Reporting and Analytics**: Generate detailed reports and analytics to make informed decisions.    
 
 ## Installation
 
